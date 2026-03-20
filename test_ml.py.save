@@ -1,16 +1,28 @@
-import pytest
+jimport pytest
 # TODO: add necessary import
 
 # TODO: implement the first test. Change the function name and input as needed
 def test_one():
-    assert 1 + 1 ==2
+    """
+    # add description for the first test
+    """
+    # Your code here
+    pass
 
 
 # TODO: implement the second test. Change the function name and input as needed
 def test_two():
-    assert "hello".upper() == "HELLO"
+    """
+    # add description for the second test
+    """
+    # Your code here
+    pass
 
 
 # TODO: implement the third test. Change the function name and input as needed
 def test_three():
-    assert len([1, 2, 3]) == 3
+    """
+    # add description for the third test
+    """
+    # Your code here
+    pass
