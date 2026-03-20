@@ -30,7 +30,7 @@ The model was evaluated using the following metrics:
 - F1 Score
 
 Model performance:
-- Precision: 0.760
+- Precision: 0.7406
 - Recall: 0.6378
 - F1 Score: 0.6854
 
